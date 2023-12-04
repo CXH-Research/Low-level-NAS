@@ -14,7 +14,7 @@ Neural Architecture Search for Low-level Vision
 | Compiler-Aware Neural Architecture Search for On-Mobile Real-time Super-Resolution | ECCV 2022 | https://github.com/wuyushuwys/compiler-aware-nas-sr |
 | Efficient Hardware-aware Neural Architecture Search for Image Super-resolution on Mobile Devices | ACCV 2022 | https://github.com/xindongzhang/EHANAS              |
 | Neural Architecture Search for Compressed Sensing Magnetic Resonance Image Reconstruction | CMIG 2020 | https://github.com/yjump/NAS-for-CSMRI              |
-|                                                              |           |                                                     |
+| AutoEnhancer: Transformer on U-Net Architecture search for Underwater Image Enhancement                                                             |  2022 ACCV         | https://github.com/piggy2009/autoEnhancer                                                    |
 |                                                              |           |                                                     |
 |                                                              |           |                                                     |
 |                                                              |           |                                                     |
